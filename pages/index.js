@@ -50,8 +50,8 @@ export default function Home() {
           <div className="text-center p-10">
             <h3 className="text-4xl py-2 dark:text-white">Oportunidades que procuro:</h3>
             <p className="text-lg py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Oportunidades de desenvolvedor Front-End, de forma remota ou presencial em São Paulo - Capital (ou cidades)
-              próximas. Também aceito trabalho como freelancer (remoto).
+              Oportunidades de desenvolvedor Front-End, de forma remota ou presencial em São Paulo - Capital (ou cidades
+              próximas). Também aceito trabalho como freelancer (remoto).
             </p>
           </div>
           <div className="flex" >
